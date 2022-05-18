@@ -1,4 +1,4 @@
-Steps to follow:
+#Steps to follow:
 
 1: Install Xampp -> start xampp server -> 
 
@@ -20,4 +20,5 @@ if followed part B, then vise versa fill the MySQL workbench.
 
 4: Now, open chrome and enter localhost/chillin/ and press enter site will start.
 
+#Site Link:
 https://abhinavv9258.github.io/VS-Projects/Chillin/
